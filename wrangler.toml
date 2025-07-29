@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23liDPXuF5D2GLzC2p"
 GITHUB_OWNER = "alexlin1688"
 GITHUB_REPO = "Navi"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navi.lqw1688.dpdns.org/api/auth"
-NEXT_PUBLIC_API_URL="https://navi.lqw1688.dpdns.org/"
+NEXTAUTH_URL = "https://navsphere-an8.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://navsphere-an8.pages.dev/"
 
