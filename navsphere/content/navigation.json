@@ -88,16 +88,7 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1754824042820_xmwptn720",
-          "title": "lucky",
-          "href": "https://lucky.missluckysrl.store/",
-          "description": "",
-          "icon": "/assets/images/logos/tableconvert.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "77c50211-b9a0-4846-8e15-449d5b68179c",
@@ -105,7 +96,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754824042820_xmwptn720",
+              "title": "lucky",
+              "href": "https://lucky.missluckysrl.store/",
+              "description": "",
+              "icon": "/assets/images/logos/tableconvert.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
