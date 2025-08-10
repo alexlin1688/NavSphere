@@ -23,7 +23,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754826893301_rykx1qboi",
+              "title": "天天影视",
+              "href": "https://tt.missluckysrl.store/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
