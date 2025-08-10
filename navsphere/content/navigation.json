@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1754822773521",
+      "title": "我的NAS",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -809,15 +818,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754822773521",
-      "title": "我的NAS",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
