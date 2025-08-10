@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754822773521",
+      "title": "我的NAS",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
