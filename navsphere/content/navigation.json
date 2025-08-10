@@ -31,6 +31,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754827274322_a6ubuxpum",
+              "title": "emby",
+              "href": "https://emby.missluckysrl.store/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
