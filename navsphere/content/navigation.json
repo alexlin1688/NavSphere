@@ -6,7 +6,16 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754822822223",
+          "title": "天天影视",
+          "href": "https://tt.missluckysrl.store/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
