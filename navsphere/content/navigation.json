@@ -16,16 +16,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "77c50211-b9a0-4846-8e15-449d5b68179c",
-          "title": "视频影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1",
