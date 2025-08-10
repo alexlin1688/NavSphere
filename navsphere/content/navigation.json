@@ -6,7 +6,16 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754824042820_xmwptn720",
+          "title": "lucky",
+          "href": "https://lucky.missluckysrl.store/",
+          "description": "",
+          "icon": "/assets/img_1754825273309.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "77c50211-b9a0-4846-8e15-449d5b68179c",
@@ -14,16 +23,7 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1754824042820_xmwptn720",
-              "title": "lucky",
-              "href": "https://lucky.missluckysrl.store/",
-              "description": "",
-              "icon": "/assets/img_1754825273309.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
