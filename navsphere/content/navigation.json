@@ -853,6 +853,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754828056414",
+      "title": "后台管理",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
