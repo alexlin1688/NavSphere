@@ -868,7 +868,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754828147312_qls0eirtb",
+              "title": "天天影视",
+              "href": "https://tt.missluckysrl.store/zhixinfang.php/admin/index/index.html",
+              "description": "",
+              "icon": "/assets/img_1754828136295.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
