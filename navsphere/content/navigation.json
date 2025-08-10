@@ -83,6 +83,15 @@
       "enabled": true
     },
     {
+      "id": "1754823237416",
+      "title": "我的NAS-923",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -809,15 +818,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754823237416",
-      "title": "我的NAS-923",
-      "icon": "LayoutList",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
