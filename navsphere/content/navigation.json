@@ -1,24 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1754822773521",
-      "title": "我的NAS",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1754822822223",
-          "title": "天天影视",
-          "href": "https://tt.missluckysrl.store/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
