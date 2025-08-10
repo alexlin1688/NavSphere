@@ -1,6 +1,33 @@
 {
   "navigationItems": [
     {
+      "id": "1754823237416",
+      "title": "我的NAS-923",
+      "icon": "Database",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "77c50211-b9a0-4846-8e15-449d5b68179c",
+          "title": "视频影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1754824042820_xmwptn720",
+              "title": "lucky",
+              "href": "https://lucky.missluckysrl.store/",
+              "description": "",
+              "icon": "/assets/img_1754825273309.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -81,33 +108,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754823237416",
-      "title": "我的NAS-923",
-      "icon": "Database",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "77c50211-b9a0-4846-8e15-449d5b68179c",
-          "title": "视频影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1754824042820_xmwptn720",
-              "title": "lucky",
-              "href": "https://lucky.missluckysrl.store/",
-              "description": "",
-              "icon": "/assets/img_1754825273309.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "9",
