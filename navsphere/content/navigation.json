@@ -134,7 +134,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "7f433e5d-b765-43c6-a86b-b2d18152bf2f",
+          "title": "media",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754828056414",
