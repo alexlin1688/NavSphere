@@ -141,7 +141,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754920921274_wckbqqkyq",
+              "title": "世界影院",
+              "href": "https://prato.alexlin1688.top/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
