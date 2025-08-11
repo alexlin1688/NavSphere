@@ -880,6 +880,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754920375007",
+      "title": "Vercel云服务",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
