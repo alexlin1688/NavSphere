@@ -119,6 +119,24 @@
       "enabled": true
     },
     {
+      "id": "1754920375007",
+      "title": "Vercel云服务",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1754828056414",
       "title": "后台管理",
       "icon": "Settings",
@@ -872,24 +890,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754920375007",
-      "title": "Vercel云服务",
-      "icon": "Cloud",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
