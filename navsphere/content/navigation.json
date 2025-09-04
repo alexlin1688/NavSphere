@@ -1,28 +1,18 @@
 {
   "navigationItems": [
     {
-      "id": "1754823237416",
-      "title": "VPS",
-      "icon": "Database",
-      "description": "192.227.237.69",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "529b4812-d019-4806-8774-d96de236954e",
-          "title": "影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
       "items": [
+        {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
+        },
         {
           "id": "1_1",
           "title": "Google Analytics",
@@ -91,51 +81,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754920375007",
-      "title": "Vercel云服务",
-      "icon": "Cloud",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": [
-        {
-          "id": "7f433e5d-b765-43c6-a86b-b2d18152bf2f",
-          "title": "media",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "1754828056414",
-      "title": "后台管理",
-      "icon": "Settings",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "50606af5-214e-4830-bb4e-3cbc579a49b6",
-          "title": "全部后台",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
     },
     {
       "id": "9",
