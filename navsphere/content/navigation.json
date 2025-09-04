@@ -16,14 +16,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1754826893301_rykx1qboi",
-              "title": "天天影视",
-              "href": "https://tt.missluckysrl.store/",
-              "description": "",
-              "icon": "/assets/img_1754827900916.png",
-              "enabled": true
-            },
-            {
               "id": "site_1754827274322_a6ubuxpum",
               "title": "emby",
               "href": "https://emby.missluckysrl.store/",
