@@ -6,16 +6,7 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1754824042820_xmwptn720",
-          "title": "lucky",
-          "href": "https://lucky.missluckysrl.store/",
-          "description": "",
-          "icon": "/assets/img_1754898711318.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "529b4812-d019-4806-8774-d96de236954e",
