@@ -2,9 +2,9 @@
   "navigationItems": [
     {
       "id": "1754823237416",
-      "title": "NAS",
+      "title": "VPS",
       "icon": "Database",
-      "description": "",
+      "description": "192.227.237.69",
       "enabled": true,
       "items": [],
       "subCategories": [
