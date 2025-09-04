@@ -14,16 +14,7 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1754827274322_a6ubuxpum",
-              "title": "emby",
-              "href": "https://emby.missluckysrl.store/",
-              "description": "",
-              "icon": "/assets/img_1754827360878.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
